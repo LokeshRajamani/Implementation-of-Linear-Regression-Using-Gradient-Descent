@@ -1,5 +1,5 @@
-# Implementation-of-Linear-Regression-Using-Gradient-Descent
-
+# Ex-3 :Implementation-of-Linear-Regression-Using-Gradient-Descent
+# Date: 05.03.2024
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
 
